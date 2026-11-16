@@ -1,0 +1,108 @@
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
+\contentsline {section}{\numberline {2}Mathematical Background}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Eigenvalues, Eigenvectors, and Invariant Subspaces}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Symmetric Matrices and the Spectral Theorem}{8}{subsection.2.2}%
+\contentsline {paragraph}{Orthogonality of eigenvectors.}{9}{section*.2}%
+\contentsline {paragraph}{Positive semidefinite matrices.}{9}{section*.3}%
+\contentsline {subsection}{\numberline {2.3}The Rayleigh Quotient}{10}{subsection.2.3}%
+\contentsline {paragraph}{Homogeneity of the Rayleigh quotient.}{10}{section*.4}%
+\contentsline {paragraph}{Evaluation at an eigenvector.}{10}{section*.5}%
+\contentsline {paragraph}{Bounds on the Rayleigh quotient.}{11}{section*.6}%
+\contentsline {paragraph}{Interpretation as a weighted average.}{14}{section*.7}%
+\contentsline {paragraph}{Connection to the Courant--Fischer theorem.}{16}{section*.8}%
+\contentsline {subsection}{\numberline {2.4}The Power Method}{17}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Singular Value Decomposition and Matrix Norms}{18}{subsection.2.5}%
+\contentsline {paragraph}{Connection to symmetric matrices.}{19}{section*.9}%
+\contentsline {subsection}{\numberline {2.6}Metric Spaces}{19}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Orthogonal Projections}{20}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Distances Between Vectors and Subspaces}{21}{subsection.2.8}%
+\contentsline {paragraph}{Distance between two vectors.}{22}{section*.10}%
+\contentsline {paragraph}{Distance from a vector to a subspace.}{22}{section*.11}%
+\contentsline {paragraph}{Distance between two subspaces.}{22}{section*.12}%
+\contentsline {section}{\numberline {3}Subspace Geometry and Distance}{23}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Subspaces and Their Bases}{23}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Orthogonal Projectors as Unique Representations of Subspaces}{26}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}A Metric Defined by Orthogonal Projectors}{29}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Distance Between One-Dimensional Subspaces}{32}{subsection.3.4}%
+\contentsline {paragraph}{Matrix representation in the plane.}{34}{section*.13}%
+\contentsline {paragraph}{Eigenvalues and spectral norm.}{35}{section*.14}%
+\contentsline {paragraph}{Geometric meaning.}{35}{section*.15}%
+\contentsline {subsection}{\numberline {3.5}Principal Angles Between Subspaces}{36}{subsection.3.5}%
+\contentsline {paragraph}{The angle between vectors from two subspaces.}{36}{section*.16}%
+\contentsline {paragraph}{Now we will show that these angles do not depend on a basis.}{40}{section*.17}%
+\contentsline {subsection}{\numberline {3.6}Subspace Distance and Principal Angles}{41}{subsection.3.6}%
+\contentsline {paragraph}{Step 1: Decomposing the square of the projector difference.}{42}{section*.18}%
+\contentsline {paragraph}{Step 2: Understanding the two orthogonal components.}{42}{section*.19}%
+\contentsline {paragraph}{Step 3: Expressing the two quantities through singular values.}{43}{section*.20}%
+\contentsline {paragraph}{Geometric interpretation.}{45}{section*.21}%
+\contentsline {paragraph}{Geometric intuition.}{46}{section*.22}%
+\contentsline {paragraph}{Why must such a vector exist?}{46}{section*.23}%
+\contentsline {paragraph}{Step 1: Establishing the lower bound.}{47}{section*.24}%
+\contentsline {paragraph}{Step 2: Establishing the upper bound.}{48}{section*.25}%
+\contentsline {paragraph}{Conclusion.}{49}{section*.26}%
+\contentsline {paragraph}{A simple example.}{49}{section*.27}%
+\contentsline {paragraph}{Connection to the Courant--Fischer theorem.}{49}{section*.28}%
+\contentsline {section}{\numberline {4}The Courant--Fischer Theorem}{50}{section.4}%
+\contentsline {subsection}{\numberline {4.1}From Extreme to Intermediate Eigenvalues}{50}{subsection.4.1}%
+\contentsline {paragraph}{How do we find the second-smallest eigenvalue?}{50}{section*.29}%
+\contentsline {paragraph}{Two special subspaces.}{51}{section*.30}%
+\contentsline {subsection}{\numberline {4.2}Concept of the Minimum among the Maximums}{52}{subsection.4.2}%
+\contentsline {paragraph}{An example before the proof.}{52}{section*.31}%
+\contentsline {subsection}{\numberline {4.3}Intersection of Subspaces}{52}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Statement of the Courant--Fischer Theorem}{53}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Proof of the Min--Max Characterization}{54}{subsection.4.5}%
+\contentsline {paragraph}{The idea in one sentence.}{56}{section*.32}%
+\contentsline {subsection}{\numberline {4.6}Proof of the Max--Min Characterization}{56}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}A Worked Example in $\mathbb {R}^3$}{57}{subsection.4.7}%
+\contentsline {paragraph}{Min--max.}{57}{section*.33}%
+\contentsline {paragraph}{Max--min.}{58}{section*.34}%
+\contentsline {paragraph}{A useful caution.}{58}{section*.35}%
+\contentsline {subsection}{\numberline {4.8}Interpretation for Scientific Computing}{58}{subsection.4.8}%
+\contentsline {section}{\numberline {5}Weyl's Eigenvalue Perturbation Inequality}{60}{section.5}%
+\contentsline {subsection}{\numberline {5.1}The Perturbation Problem}{61}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}How Much Can One Rayleigh Quotient Change?}{61}{subsection.5.2}%
+\contentsline {paragraph}{The remaining question.}{62}{section*.36}%
+\contentsline {subsection}{\numberline {5.3}Why the Bound Survives Minimization and Maximization}{62}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Weyl's Inequality}{63}{subsection.5.4}%
+\contentsline {paragraph}{What made the proof work?}{64}{section*.37}%
+\contentsline {subsection}{\numberline {5.5}Examples and Consequences}{65}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}What Weyl's Inequality Does Not Tell Us}{66}{subsection.5.6}%
+\contentsline {section}{\numberline {6}The Davis--Kahan $\sin \Theta $ Theorem}{66}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Eigenvalues Can Be Stable While Eigenvectors Rotate}{67}{subsection.6.1}%
+\contentsline {paragraph}{The original matrix and its perturbation.}{67}{section*.38}%
+\contentsline {paragraph}{Step 1: Calculate the perturbed eigenvalues.}{67}{section*.39}%
+\contentsline {paragraph}{Step 2: Calculate an eigenvector}{68}{section*.40}%
+\contentsline {paragraph}{Step 3: Derive the formula for the rotation angle.}{71}{section*.41}%
+\contentsline {paragraph}{Geometric interpretation.}{74}{section*.48}%
+\contentsline {paragraph}{Step 4: Compute the subspace distance explicitly.}{75}{section*.49}%
+\contentsline {paragraph}{Step 5: What happens as the spectral gap changes?}{75}{section*.50}%
+\contentsline {subsection}{\numberline {6.2}The Spectral Gap and the Meaning of Stability}{76}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}A Step-by-Step Bound for a Simple Eigenvector}{76}{subsection.6.3}%
+\contentsline {paragraph}{What should we remember from this proof?}{78}{section*.51}%
+\contentsline {subsection}{\numberline {6.4}From One Eigenvector to an Invariant Subspace}{79}{subsection.6.4}%
+\contentsline {paragraph}{Why does the interval condition matter?}{80}{section*.52}%
+\contentsline {subsection}{\numberline {6.5}A Practical Bound Using the Original Spectral Gap}{81}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}A Numerical Illustration and the Main Lesson}{82}{subsection.6.6}%
+\contentsline {section}{\numberline {7}Numerical Experiments in MATLAB}{83}{section.7}%
+\contentsline {subsection}{\numberline {7.1}How to Reproduce the Experiments}{83}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}The Original Courant--Fischer Implementations}{84}{subsection.7.2}%
+\contentsline {paragraph}{Original minimax MATLAB function.}{84}{section*.53}%
+\contentsline {paragraph}{Original maximin MATLAB function.}{87}{section*.54}%
+\contentsline {subsection}{\numberline {7.3}Experiment 1: Checking Both Variational Inequalities}{90}{subsection.7.3}%
+\contentsline {paragraph}{What should the reader observe?}{91}{section*.55}%
+\contentsline {subsection}{\numberline {7.4}Experiment 2: Principal Angles and Projector Distance}{92}{subsection.7.4}%
+\contentsline {paragraph}{What should the reader observe?}{92}{section*.56}%
+\contentsline {subsection}{\numberline {7.5}Experiment 3: Numerical Verification of Weyl's Inequality}{93}{subsection.7.5}%
+\contentsline {paragraph}{What should the reader observe?}{94}{section*.57}%
+\contentsline {subsection}{\numberline {7.6}Experiment 4: Davis--Kahan and the Spectral Gap}{94}{subsection.7.6}%
+\contentsline {paragraph}{What should the reader observe?}{96}{section*.58}%
+\contentsline {subsection}{\numberline {7.7}Optional: Run the Complete Suite}{96}{subsection.7.7}%
+\contentsline {paragraph}{Concluding observations.}{96}{section*.59}%
+\contentsline {section}{\numberline {8}Conclusion}{97}{section.8}%
+\contentsline {subsection}{\numberline {8.1}What Have We Learned?}{97}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}A Historical Epilogue}{99}{subsection.8.2}%
+\contentsline {paragraph}{Lord Rayleigh: a physicist and a patron of science.}{99}{section*.60}%
+\contentsline {paragraph}{Ernst Fischer and Richard Courant: from a theorem to a school of mathematics.}{99}{section*.61}%
+\contentsline {paragraph}{Hermann Weyl: unity across mathematics and physics.}{100}{section*.62}%
+\contentsline {paragraph}{Chandler Davis and William Kahan: making stability precise.}{100}{section*.63}%
+\contentsline {section}{References}{101}{section*.64}%
