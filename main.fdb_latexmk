@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1794791183.20548 "/home/biajid/Python/Python_Data_Analysis_WesMckinney/Subspace_Distance/main.tex" "main.pdf" "main" 1794791185.30691 0
+["pdflatex"] 1794879169.46081 "/home/biajid/Python/Python_Data_Analysis_WesMckinney/Subspace_Distance/main.tex" "main.pdf" "main" 1794879171.71676 0
   "/etc/texmf/web2c/texmf.cnf" 1771892787.11816 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/biajid/Python/Python_Data_Analysis_WesMckinney/Subspace_Distance/main.tex" 1794791182.93069 226747 d28bfbdbcee79d2deec1f4052bdad2f1 ""
+  "/home/biajid/Python/Python_Data_Analysis_WesMckinney/Subspace_Distance/main.tex" 1794879169.14275 226743 cbc9ebb787c87b82f42e0e25a077be89 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1246382020 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -165,10 +165,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1772672242.27005 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1772672309 8214297 64ff76c5ce6052de7a15c4feba5c97d1 ""
-  "main.aux" 1794791185.14872 29620 b157a8574619a946ad3ce9f3eec0cfb0 "pdflatex"
-  "main.out" 1794791185.15172 12604 c72e495d45fb37ebe33d7106d7cab425 "pdflatex"
-  "main.tex" 1794791182.93069 226747 d28bfbdbcee79d2deec1f4052bdad2f1 ""
-  "main.toc" 1794791185.15172 9768 bcc4045da2cfec03ad42f5b53bb63fbe "pdflatex"
+  "main.aux" 1794879171.54964 29620 b157a8574619a946ad3ce9f3eec0cfb0 "pdflatex"
+  "main.out" 1794879171.55364 12604 c72e495d45fb37ebe33d7106d7cab425 "pdflatex"
+  "main.tex" 1794879169.14275 226743 cbc9ebb787c87b82f42e0e25a077be89 ""
+  "main.toc" 1794879171.55511 9768 bcc4045da2cfec03ad42f5b53bb63fbe "pdflatex"
   (generated)
   "main.aux"
   "main.log"
